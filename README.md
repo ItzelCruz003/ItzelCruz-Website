@@ -1,5 +1,9 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Itzel Cruz's Website!
+
+![Descritption of Image](img/website.png)
+
+
 
 This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
